@@ -36,7 +36,7 @@ These files need to be committed and pushed to GitHub.
     - inneholder minst 5 rader og 3 kolonner
     - har noen celler som strekker seg over flere rader eller kolonner (bruk `rowspan` og/eller `colspan`)
   *	`lists.html` som
-    - inkluderer både ordnede og ikke-ordnede lister
+    - inkluderer både ordnede og uordnede lister
     - har lister inni hverandre; minst 3 nivåer med innrykk (indentation)
   *	`images.html` som
     - viser minst 3 forskjellige bilder i en tabell
