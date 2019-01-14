@@ -25,23 +25,23 @@ These files need to be committed and pushed to GitHub.
 
 # Øving 1 - HTML
 
-**Lag de følgende HTML filer:**
+**Lag følgende HTML-filer:**
 
-  *	`index.html` som inkluderer header, noe paragraph text, og lag følgende lenker
+  *	`index.html` som inkluderer header, noe paragraftekst og følgende lenker
     - "tables" som peker på tables.html
     - "lists" som peker på lists.html
     - "images" som peker på images.html
   *	`tables.html` som inkluderer en tabell som
-    - har en overskrift rad (heading row)
-    - inneholder minst 5 rader og 3 koloner
-    - har noen celler som strekker seg over flere rader eller koloner (bruk rowspan og/eller colspan)
+    - har en overskriftsrad (heading row)
+    - inneholder minst 5 rader og 3 kolonner
+    - har noen celler som strekker seg over flere rader eller kolonner (bruk `rowspan` og/eller `colspan`)
   *	`lists.html` som
-    - inkluderer både ordered og unordered lister
+    - inkluderer både ordnede og uordnede lister
     - har lister inni hverandre; minst 3 nivåer med innrykk (indentation)
   *	`images.html` som
     - viser minst 3 forskjellige bilder i en tabell
-    - tabellen har 2 koloner; den venstre kolonnen inneholder bildene, den høyre kolonnen inneholder bildetekster eller beskrivelse
-    - bildene finner dere på internett og vises med 150 pixels brede
-    - bildene lenkes til kilden og skal åpnes i et nytt (nettleser)vindu
+    - tabellen har 2 kolonner; den venstre kolonnen inneholder bildene, den høyre kolonnen inneholder bildetekster eller beskrivelser
+    - bildene finner dere på Internettet og vises med 150 pixels bredde
+    - bildene lenkes til kilden og skal åpnes i et nytt (nettleser-) vindu
 
-Disse filene skal opplastes (committed and pushed) til GitHub.
+Disse filene skal lastes opp (committed and pushed) til GitHub.
