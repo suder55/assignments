@@ -16,7 +16,7 @@ You are not allowed to make any changes to the HTML file!
     -	Headings are in *white* and have a shadow colored *#333*
     -	The second header has a size of *1.2em*, is written using the font *Garamond*, with *serif* as a second option, and is in *italic*
     -	There is no vertical space between the first and second headings
-        -	Hint: set both the bottom border of the first heading and the top border of the second heading to *0px*
+        -	Hint: set both the bottom margin of the first heading and the top margin of the second heading to *0px*
   *	Content
     -	The second-level headings (h2) have a *solid 1px* bottom border in *#999999*
     -	The rank labels (#1, #2, #3) are written in *white* on a *black* background
@@ -51,8 +51,8 @@ Skriv CSS kode i `styles.css`, slik at når du åpner `index.html` i en nettlese
     -	Den andre overskriften (den minste) skal ha en størrelse *1.2em* og være i kursiv (*italic*). Skrifttypen skal være *Garamond*, med *serif* som andre valg.
     -	Det skal ikke være noe vertikal avstand mellom de to overskriftene
     -	Hint:
-        -	 Set *bottom border* i øvre overskrift til *0px*.
-        -	 Set *top border* i nedre overskrift til *0px*.
+        -	 Set *bottom margin* i øvre overskrift til *0px*.
+        -	 Set *top margin* i nedre overskrift til *0px*.
   *	Innhold/Content
     -	Andre-nivå overskrifter (`<h2>`) har en *solid 1px* bottom border in *#999999*
     -	Det skal være rangerings label (#1, #2, #3).Disse skal ha *svart* bakgrunn med *hvitt* tekst.
