@@ -74,6 +74,9 @@ Download it from: https://desktop.github.com/
 
 ![Step 2](images/github-setLocation.png)
 
+  * You can open your location using the link in the tool.
+
+![Step 2](images/github-showRepo.png)
 
 ### 3. For each assignment
 
