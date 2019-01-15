@@ -8,9 +8,9 @@
 
 There are three GitHub repositories:
 
-  * [uis-dat310-spring19/course-info](https://github.com/uis-dat310-spring19/course-info/): (i.e., this repository) contains examples, exercises, assignment descriptions, etc. (public)
-  * [uis-dat310-spring19/{yourname}-assignments](https://github.com/uis-dat310-spring2019/): your submissions for the assignments ({yourname} is to be substituted with the username you registered on GitHub) (private)
-  * [uis-dat310-spring19/assignments](https://github.com/uis-dat310-spring19/assignments): contains the reference solutions to the assignments (posted after the deadline has passed) (private)
+  * [uis-dat310-spring19/course-info](https://github.com/uis-dat310-spring19/course-info/): (i.e., this repository) contains examples, exercises, etc. (public)
+  * [uis-dat310-spring19/{yourname}-assignments](https://github.com/uis-dat310-spring19/): your submissions for the assignments ({yourname} is to be substituted with the username you registered on GitHub) (private)
+  * [uis-dat310-spring19/assignments](https://github.com/uis-dat310-spring19/assignments): contains assignment descriptions
 
 Private means that you need to sign up on the [Online Course Admin](www2.ux.uis.no/~ljehl/dat310/) to get access to these repositories. (*Note that the private repositories are created manually, in batches, so you might need to wait 1-2 days after you signed up.*)
 
